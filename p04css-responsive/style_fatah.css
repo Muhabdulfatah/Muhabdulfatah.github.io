@@ -1,0 +1,22 @@
+.form {
+    width: 100%;
+}
+.word1 {
+    color: red;
+
+}
+.word2 {
+    color: navy;
+}
+.word3 {
+    color: green;
+}
+.head1 {
+    font-size: 20px;
+}
+.head2 {
+    font-size: 50px;
+}
+.nopendaftaran, .nama {
+    padding: 6px;
+}
